@@ -30,4 +30,4 @@ The platform addresses the lack of creativity in sportswear designs available in
 ## How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/SportDesignAI.git
+   git clone https://github.com/Shai-Shargal/SportDesignAI
